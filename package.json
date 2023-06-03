@@ -1,7 +1,7 @@
 {
   "name": "adxxtya",
   "version": "1.0.0",
-  "description": "",
+  "description": "The 'adxxtya' npm package allows you to quickly access my personal portfolio and social links directly from your terminal.",
   "main": "index.js",
   "type": "module",
   "bin": "./bin.js",
